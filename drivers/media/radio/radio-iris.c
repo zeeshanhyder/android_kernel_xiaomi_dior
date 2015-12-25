@@ -10,6 +10,7 @@
  * GNU General Public License for more details.
  */
 
+
 #define DRIVER_AUTHOR "Archana Ramchandran <archanar@codeaurora.org>"
 #define DRIVER_NAME "radio-iris"
 #define DRIVER_CARD "Qualcomm FM Radio Transceiver"

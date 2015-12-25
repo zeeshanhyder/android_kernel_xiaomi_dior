@@ -24,6 +24,8 @@
  * SOFTWARE IS DISCLAIMED.
  */
 
+#pragma once
+
 #ifndef __RADIO_HCI_CORE_H
 #define __RADIO_HCI_CORE_H
 
